@@ -1,1 +1,3 @@
 # Soil-Property-Analysis
+
+In this project, I developed a machine learning model using scikit-learn to determine which soil property best explains the type of crop growing on it. The dataset was analyzed to identify relevant features, and logistic regression was implemented as the primary algorithm. I applied cross-validation techniques to ensure model reliability and prevent overfitting, improving its generalization on unseen data. This project provided insights into how various soil properties affect crop growth and highlighted the most significant factors influencing this relationship. Through this experience, I strengthened my skills in feature selection, model evaluation, and interpreting machine learning outcomes to drive data-based agricultural decisions.
